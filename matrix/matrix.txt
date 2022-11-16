@@ -1,0 +1,20 @@
+matrix multiplication
+printf("1st matrix");
+for(i=0;i<m;i++)
+{
+for(j=0;j<n;j++)
+{
+printf("%d \t ",&a[i][j]);
+}
+printf("\n");
+}
+printf("2nd matrix");
+for(i=0;i<p;i++)
+{
+for(j=0;j<q;j++)
+{
+printf("%d \t ",&b[i][j]);
+}
+printf("\n");
+}
+
